@@ -1,0 +1,6 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\bin\Debug\Lab6_ParallelForeachApplication.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\bin\Debug\Lab6_ParallelForeachApplication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\bin\Debug\Lab6_ParallelForeachApplication.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\obj\Debug\Lab6_ParallelForeachApplication.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\obj\Debug\Lab6_ParallelForeachApplication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForeachApplication\Lab6_ParallelForeachApplication\obj\Debug\Lab6_ParallelForeachApplication.pdb

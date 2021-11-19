@@ -1,0 +1,7 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\bin\Debug\lab1_ThreadPool_Tylyk.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\bin\Debug\lab1_ThreadPool_Tylyk.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\bin\Debug\lab1_ThreadPool_Tylyk.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\obj\Debug\lab1_ThreadPool_Tylyk.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\obj\Debug\lab1_ThreadPool_Tylyk.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\obj\Debug\lab1_ThreadPool_Tylyk.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_ThreadPool_Tylyk\lab1_ThreadPool_Tylyk\obj\Debug\lab1_ThreadPool_Tylyk.pdb

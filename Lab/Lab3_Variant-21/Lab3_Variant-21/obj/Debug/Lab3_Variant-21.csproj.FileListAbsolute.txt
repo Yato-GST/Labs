@@ -1,0 +1,10 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\bin\Debug\Lab3_Variant-21.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\bin\Debug\Lab3_Variant-21.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\bin\Debug\Lab3_Variant-21.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant-21.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant_21.Form1.resources
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant_21.Properties.Resources.resources
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant-21.csproj.GenerateResource.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant-21.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant-21.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab3_Variant-21\Lab3_Variant-21\obj\Debug\Lab3_Variant-21.pdb

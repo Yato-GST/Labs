@@ -1,0 +1,10 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\bin\Debug\Lab6_LifeGame.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\bin\Debug\Lab6_LifeGame.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\bin\Debug\Lab6_LifeGame.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.Form1.resources
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.Properties.Resources.resources
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.csproj.GenerateResource.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_LifeGame\Lab6_LifeGame\obj\Debug\Lab6_LifeGame.pdb

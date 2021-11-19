@@ -1,0 +1,7 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\bin\Debug\Lab6_ParallelForApplication.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\bin\Debug\Lab6_ParallelForApplication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\bin\Debug\Lab6_ParallelForApplication.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\obj\Debug\Lab6_ParallelForApplication.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\obj\Debug\Lab6_ParallelForApplication.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\obj\Debug\Lab6_ParallelForApplication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\Lab6_ParallelForApplication\Lab6_ParallelForApplication\obj\Debug\Lab6_ParallelForApplication.pdb

@@ -1,0 +1,7 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\bin\Debug\lab1_Делегат ParametrizedThreadStart.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\bin\Debug\lab1_Делегат ParametrizedThreadStart.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\bin\Debug\lab1_Делегат ParametrizedThreadStart.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\obj\Debug\lab1_Делегат ParametrizedThreadStart.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\obj\Debug\lab1_Делегат ParametrizedThreadStart.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\obj\Debug\lab1_Делегат ParametrizedThreadStart.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_Делегат ParametrizedThreadStart\lab1_Делегат ParametrizedThreadStart\obj\Debug\lab1_Делегат ParametrizedThreadStart.csprojAssemblyReference.cache

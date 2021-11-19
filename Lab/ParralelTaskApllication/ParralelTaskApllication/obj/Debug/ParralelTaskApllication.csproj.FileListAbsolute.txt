@@ -1,0 +1,7 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\bin\Debug\ParralelTaskApllication.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\bin\Debug\ParralelTaskApllication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\bin\Debug\ParralelTaskApllication.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\obj\Debug\ParralelTaskApllication.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\obj\Debug\ParralelTaskApllication.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\obj\Debug\ParralelTaskApllication.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\ParralelTaskApllication\ParralelTaskApllication\obj\Debug\ParralelTaskApllication.pdb

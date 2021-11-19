@@ -1,0 +1,7 @@
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\bin\Debug\lab1_AutoResetEvent.exe.config
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\bin\Debug\lab1_AutoResetEvent.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\bin\Debug\lab1_AutoResetEvent.pdb
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\obj\Debug\lab1_AutoResetEvent.csprojAssemblyReference.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\obj\Debug\lab1_AutoResetEvent.csproj.CoreCompileInputs.cache
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\obj\Debug\lab1_AutoResetEvent.exe
+M:\Универ\Технології розподілених систем та паралельних обчислень\Lab\lab1_AutoResetEvent\lab1_AutoResetEvent\obj\Debug\lab1_AutoResetEvent.pdb
